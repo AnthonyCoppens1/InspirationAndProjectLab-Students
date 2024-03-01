@@ -90,7 +90,7 @@ namespace BookStore_DSPS1B
 
             foreach (var customer in customers)
             {
-                s += $"* {customer.Name}\n";
+                s += $"* {customer.Name} {customer.Email}\n";
             }
 
             var staff = GetStaff();
