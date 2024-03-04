@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\bin\Debug\net8.0\OO-Music-DSPS1B.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\bin\Debug\net8.0\OO-Music-DSPS1B.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\bin\Debug\net8.0\OO-Music-DSPS1B.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\bin\Debug\net8.0\OO-Music-DSPS1B.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\bin\Debug\net8.0\OO-Music-DSPS1B.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\refint\OO-Music-DSPS1B.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\OO-Music-DSPS1B.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students\Week4-OO\OO-Music-DSPS1B\obj\Debug\net8.0\ref\OO-Music-DSPS1B.dll
