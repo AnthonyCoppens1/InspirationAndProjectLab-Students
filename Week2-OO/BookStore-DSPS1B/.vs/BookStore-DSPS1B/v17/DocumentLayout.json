@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\",
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students\\week2-oo\\bookstore-dsps1b\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80025305-98EB-40E4-863F-4A9C05F4D1B7}|BookStore-DSPS1B.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,37 +50,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-03-10T13:12:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookStore.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\BookStore.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\BookStore.cs",
               "RelativeDocumentMoniker": "BookStore.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\BookStore.cs*",
-              "RelativeToolTip": "BookStore.cs*",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAmwFgAAAA4AAAA",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\BookStore.cs",
+              "RelativeToolTip": "BookStore.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T16:13:03.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Book.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Book.cs",
               "RelativeToolTip": "Book.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA2wA4AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T15:38:48.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T15:38:48.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Position.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Position.cs",
               "RelativeDocumentMoniker": "Position.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Position.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Position.cs",
               "RelativeToolTip": "Position.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,52 +98,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Staff.cs",
               "RelativeDocumentMoniker": "Staff.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Staff.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Staff.cs",
               "RelativeToolTip": "Staff.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAApAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T15:16:14.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Customer.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T15:16:14.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-19T15:16:14.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Person.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBsAAAAIAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T15:16:14.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Program.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week2-OO\\BookStore-DSPS1B\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwCsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T15:16:14.536Z",
               "EditorCaption": ""

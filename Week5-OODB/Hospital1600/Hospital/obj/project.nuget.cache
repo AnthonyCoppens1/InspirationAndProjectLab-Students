@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eo6G+U2jUqvM3YGCRLo758uSPcQOljZFPdC7gbvSwzVKl+XZQT9g2cFL5NQ6bmvC9vbRVbK6Ewb/pUwqzk5vfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students\\Week5-OODB\\Hospital1600\\Hospital\\Hospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
