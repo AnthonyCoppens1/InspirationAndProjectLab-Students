@@ -13,6 +13,8 @@ namespace Hospital
 
         private Data data = new Data();
 
+        public List<Person> People { get; set; }
+
         public Hospital(string name)
         {
             Name = name;
@@ -25,46 +27,43 @@ namespace Hospital
             ID = data.InsertHospital(this, people);
         }
 
+        public Hospital(int id, string name, List<Person> people)
+        {
+            Name = name;
+            ID = id;
+            People = people;
+
+        }
+
         public void AddPerson(Person person)
         {
             data.AddPeopleToHospital(person.ID, this.ID);
         }
 
-        /*public List<Patient> GetPatients()
+        public List<Patient> GetPatients()
         {
-            List<Patient> patients = new List<Patient>();
-            foreach (Person person in People)
-            {
-                if (person is Patient)
-                {
-                    patients.Add((Patient)person);
-                }
-            }//every individual inside of the original list
-            return patients;
+            return data.SelectPatients(this.ID);
         }
-
 
         public List<Person> GetStaff()
         {
-            List<Person> staff = new List<Person>();
-            foreach (Person person in People)
-            {
-                if (person is Doctor || person is Nurse)
-                {
-                    staff.Add(person);
-                }
-            }
-            return staff;
+            return data.SelectStaff(this.ID);
         }
 
         public override string ToString()
         {
             string s = "HOSPITAL " + Name + "\n";
-            foreach (Person person in People)
+            s += "--- PATIENTS\n";
+            foreach(Person person in GetPatients())
             {
-                s += " - " + person + "\n";
+                s += "*" + person + "\n";
+            }
+            s += "--- STAFF\n";
+            foreach (Person person in GetStaff())
+            {
+                s += "*" + person + "\n";
             }
             return s;
-        }*/
+        }
     }
 }

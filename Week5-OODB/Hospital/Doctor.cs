@@ -20,6 +20,7 @@ namespace Hospital
         public Doctor(int id, string name, DateOnly birth, string specialty) : base(id, name, birth)
         {
             Specialty = specialty;
+            ID = id;
         }
 
         public override string ToString()

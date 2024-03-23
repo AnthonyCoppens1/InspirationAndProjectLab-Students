@@ -22,6 +22,7 @@ namespace Hospital
         public Nurse(int id, string name, DateOnly birth, Area department) : base(id, name, birth)
         {
             Department = department;
+            ID = id;
         }
 
         public override string ToString()

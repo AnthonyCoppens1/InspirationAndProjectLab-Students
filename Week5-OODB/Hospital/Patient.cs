@@ -21,6 +21,12 @@ namespace Hospital
             ID = data.InsertPatient(this);
         }
 
+        public Patient(int id, string name, DateOnly birth, string problem, string treatment) : base(id, name, birth)
+        {
+            Problem = problem;
+            Treatment = treatment;
+            ID = id;
+        }
         public override string ToString()
         {
             return $"PATIENT: {ID} - {Name} - {Birth} - {Problem} -> {Treatment}";
